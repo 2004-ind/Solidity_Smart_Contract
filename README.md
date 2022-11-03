@@ -1,5 +1,5 @@
 # Solidity_Smart_Contract
-Ethereum, Solidity, Ethereum Virtual Machine(EVM), Remix, Blockchain-Technology
+
 
 ## Overview:
 
