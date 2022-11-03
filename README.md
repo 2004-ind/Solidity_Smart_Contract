@@ -10,7 +10,7 @@ This project runs on Solidity and Remix IDE.
 
 ### Open the Remix IDE
 
-To use this application first open the Remix IDE (https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js).In the Featured Plugins area,click the Solidity button.
+To use this application first open the Remix IDE https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js. In the Featured Plugins area,click the Solidity button.
 
 Now execute the following steps:
 * In the IDE click the "File explorers" button.
@@ -24,7 +24,7 @@ To interact with your deployed smart contract, complete the following steps:
 
 1. Use the setAccounts function to define the authorized Ethereum address that will be able to withdraw funds from your contract.
 
-You can create new, dummy addresses on the Vanity-ETH (https://vanity-eth.tk) website, which includes an Ethereum vanity address generator.
+You can create new, dummy addresses on the Vanity-ETH https://vanity-eth.tk website, which includes an Ethereum vanity address generator.
 
 2. Test the deposit functionality of your smart contract by sending the some amounts of ether. After each transaction, use the contractBalance function to verify that the funds were added to your contract.
 
