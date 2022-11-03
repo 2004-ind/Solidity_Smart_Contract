@@ -10,7 +10,7 @@ This project runs on Solidity and Remix IDE.
 
 ### Open the Remix IDE
 
-To use this application first open the Remix IDE (https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js).In the Featured Plugins area,click the Solidity button, as the following image shows:
+To use this application first open the Remix IDE (https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js).In the Featured Plugins area,click the Solidity button.
 
 Now execute the following steps:
 * In the IDE click the "File explorers" button.
